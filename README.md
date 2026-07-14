@@ -1,5 +1,7 @@
 # 🎨 Fokir — Personal Portfolio Landing Page
 
+> 🔗 **Live Demo:** [https://gehad-ahmed.github.io/Fokir/](https://gehad-ahmed.github.io/Fokir/)
+
 A responsive personal-portfolio landing page with a modern layout for showcasing skills, services and work, built with HTML and CSS.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
